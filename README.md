@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/Ayushchourasia03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 | [1260-shift-2d-grid](https://github.com/Ayushchourasia03/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -59,9 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
