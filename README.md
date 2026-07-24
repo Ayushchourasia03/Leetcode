@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ayushchourasia03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
 | [1260-shift-2d-grid](https://github.com/Ayushchourasia03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -78,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
