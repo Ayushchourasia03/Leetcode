@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ayushchourasia03/Leetcode/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 | [1260-shift-2d-grid](https://github.com/Ayushchourasia03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ayushchourasia03/Leetcode/tree/master/0118-pascals-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
