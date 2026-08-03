@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/0020-valid-parentheses) |
+| [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
