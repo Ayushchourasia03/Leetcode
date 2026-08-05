@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
