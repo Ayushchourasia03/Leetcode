@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayushchourasia03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ayushchourasia03/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Ayushchourasia03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushchourasia03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Ayushchourasia03/Leetcode/tree/master/3731-find-missing-elements) |
