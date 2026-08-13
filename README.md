@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
+| [0796-rotate-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushchourasia03/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -343,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushchourasia03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
