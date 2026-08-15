@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayushchourasia03/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ayushchourasia03/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Ayushchourasia03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Ayushchourasia03/Leetcode/tree/master/0228-summary-ranges) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ayushchourasia03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Ayushchourasia03/Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Ayushchourasia03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushchourasia03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0808-soup-servings](https://github.com/Ayushchourasia03/Leetcode/tree/master/0808-soup-servings) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0204-count-primes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Probability and Statistics
 |  |
@@ -416,4 +420,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushchourasia03/Leetcode/tree/master/0169-majority-element) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
