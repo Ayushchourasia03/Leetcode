@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Ayushchourasia03/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushchourasia03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushchourasia03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
