@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Ayushchourasia03/Leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushchourasia03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ayushchourasia03/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ayushchourasia03/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushchourasia03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0575-distribute-candies) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushchourasia03/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushchourasia03/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayushchourasia03/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
