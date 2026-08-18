@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Ayushchourasia03/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushchourasia03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ayushchourasia03/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/1140-stone-game-ii) |
 ## Bracket Sequences
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ayushchourasia03/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
