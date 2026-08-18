@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ayushchourasia03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Ayushchourasia03/Leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0575-distribute-candies) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushchourasia03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0575-distribute-candies) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushchourasia03/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushchourasia03/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -478,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayushchourasia03/Leetcode/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ayushchourasia03/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
