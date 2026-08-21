@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushchourasia03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Ayushchourasia03/Leetcode/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ayushchourasia03/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0875-koko-eating-bananas](https://github.com/Ayushchourasia03/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ayushchourasia03/Leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayushchourasia03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
