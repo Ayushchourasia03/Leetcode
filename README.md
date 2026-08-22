@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Ayushchourasia03/Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ayushchourasia03/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0819-most-common-word](https://github.com/Ayushchourasia03/Leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/Ayushchourasia03/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ayushchourasia03/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ayushchourasia03/Leetcode/tree/master/0877-stone-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ayushchourasia03/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/Ayushchourasia03/Leetcode/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushchourasia03/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0819-most-common-word](https://github.com/Ayushchourasia03/Leetcode/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/Ayushchourasia03/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushchourasia03/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushchourasia03/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushchourasia03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/Ayushchourasia03/Leetcode/tree/master/0819-most-common-word) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushchourasia03/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Ayushchourasia03/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
