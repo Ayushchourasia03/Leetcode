@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Ayushchourasia03/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Ayushchourasia03/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushchourasia03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Ayushchourasia03/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Ayushchourasia03/Leetcode/tree/master/0500-keyboard-row) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayushchourasia03/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushchourasia03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0455-assign-cookies) |
