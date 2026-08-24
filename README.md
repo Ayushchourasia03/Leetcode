@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayushchourasia03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ayushchourasia03/Leetcode/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayushchourasia03/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayushchourasia03/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayushchourasia03/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Ayushchourasia03/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ayushchourasia03/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushchourasia03/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayushchourasia03/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
