@@ -2,20 +2,26 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> right(n);
-        right[n - 1] = nums[n - 1];
 
-        for (int i = n - 2; i >= 0; --i) {
-            right[i] = min(right[i + 1], nums[i]);
-        }
+        for (int i = 0; i < n; i++) {
+            int maxLeft = nums[0];
+            int minRight = nums[i];
 
-        int left = 0;
-        for (int i = 0; i < n; ++i) {
-            left = max(left, nums[i]);
-            if (left - right[i] <= k) {
+            // Find maximum from 0 to i
+            for (int j = 0; j <= i; j++) {
+                maxLeft = max(maxLeft, nums[j]);
+            }
+
+            // Find minimum from i to n-1
+            for (int j = i; j < n; j++) {
+                minRight = min(minRight, nums[j]);
+            }
+
+            if (maxLeft - minRight <= k) {
                 return i;
             }
         }
+
         return -1;
     }
 };
