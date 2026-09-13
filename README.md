@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ayushchourasia03/Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ayushchourasia03/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0819-most-common-word](https://github.com/Ayushchourasia03/Leetcode/tree/master/0819-most-common-word) |
+| [0835-image-overlap](https://github.com/Ayushchourasia03/Leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Ayushchourasia03/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ayushchourasia03/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ayushchourasia03/Leetcode/tree/master/0877-stone-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ayushchourasia03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Ayushchourasia03/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ayushchourasia03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayushchourasia03/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
