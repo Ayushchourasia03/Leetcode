@@ -4,21 +4,23 @@ public:
         if (n <= 2) return 0;
 
         vector<bool> isPrime(n, true);
+
         isPrime[0] = isPrime[1] = false;
 
-        for (int i = 2; i * i < n; i++) {
-            if (isPrime[i]) {
-                for (int j = i * i; j < n; j += i) {
-                    isPrime[j] = false;
-                }
-            }
-        }
+        // 2 is prime
+        int count = 1;
 
-        int count = 0;
-
-        for (int i = 2; i < n; i++) {
+        // Only consider odd numbers
+        for (int i = 3; i < n; i += 2) {
             if (isPrime[i]) {
                 count++;
+
+                // No need to mark if i*i >= n
+                if (1LL * i * i < n) {
+                    for (int j = i * i; j < n; j += 2 * i) {
+                        isPrime[j] = false;
+                    }
+                }
             }
         }
 
