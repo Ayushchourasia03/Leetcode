@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ayushchourasia03/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Ayushchourasia03/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushchourasia03/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Ayushchourasia03/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayushchourasia03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ayushchourasia03/Leetcode/tree/master/0118-pascals-triangle) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ayushchourasia03/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ayushchourasia03/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ayushchourasia03/Leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Ayushchourasia03/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Ayushchourasia03/Leetcode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
