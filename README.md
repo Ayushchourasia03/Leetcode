@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ayushchourasia03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ayushchourasia03/Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Ayushchourasia03/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Ayushchourasia03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushchourasia03/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ayushchourasia03/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayushchourasia03/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ayushchourasia03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushchourasia03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Ayushchourasia03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ayushchourasia03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ayushchourasia03/Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Ayushchourasia03/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Ayushchourasia03/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ayushchourasia03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
