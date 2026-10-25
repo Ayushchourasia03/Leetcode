@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayushchourasia03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Ayushchourasia03/Leetcode/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ayushchourasia03/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ayushchourasia03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayushchourasia03/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Ayushchourasia03/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayushchourasia03/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Ayushchourasia03/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Ayushchourasia03/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ayushchourasia03/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayushchourasia03/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -616,12 +618,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ayushchourasia03/Leetcode/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/Ayushchourasia03/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushchourasia03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Ayushchourasia03/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Ayushchourasia03/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ayushchourasia03/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Ayushchourasia03/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushchourasia03/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -818,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Ayushchourasia03/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ayushchourasia03/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushchourasia03/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
